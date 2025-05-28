@@ -1,0 +1,52 @@
+/*Term Project by Noah Anderson 05/28/2025*/
+
+body 
+{
+  margin: 0 auto;
+  padding: 0;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 16px;
+  line-height: 1.6;
+  color: #222;
+  background-color: #66b9ec;
+  min-height: 100vh;
+  display: block;
+  text-align: center;
+}
+
+button 
+{
+  padding: 0.6em 1.2em;
+  font-size: 1rem;
+  font-family: inherit;
+  color: #fff;
+  background-color: #00cc4e;
+  border: none;
+  border-radius: 6px;
+  cursor: pointer;
+  transition: background-color 0.2s ease, transform 0.1s ease;
+}
+
+button:hover 
+{
+  background-color: #00a349;
+}
+
+button:active 
+{
+  transform: scale(0.98);
+}
+
+#quoteInsertion
+{
+  max-width: 600px;
+  padding: 2rem;
+  background-color: #ffffff;
+  border-radius: 8px;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+  display: block;
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+}
+
