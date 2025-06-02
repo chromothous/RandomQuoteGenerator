@@ -1,5 +1,3 @@
-import '../css/styles.css';
-
 function fetchInformation()
 {
     fetch('https://api.api-ninjas.com/v1/quotes', {
