@@ -1,5 +1,3 @@
-Random Quote Generator
-Overview
 A simple, clean JavaScript web app that fetches and displays random quotes from a public API. 
 Built as a term project to practice working with APIs, asynchronous JavaScript, and DOM manipulation.
 
